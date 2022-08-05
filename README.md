@@ -4,7 +4,7 @@
 
 For this project the goal was to practice Python Object Oriented Programing in a biological context.
 
-The **bio_sep** class  is able to identify the type of sequence, either DNA or RNA, check whether the sequence has the proper bases and retieve this info. However, we are randomly generating a DNA or RNA string of 100 base pairs to test this class, so there can be no error message.
+The [bio_seq](https://github.com/Christ14n97/Python_4_LifeScience_2019/blob/master/DNAToolset/bio_seq.py) class  is able to identify the type of sequence, either DNA or RNA, check whether the sequence has the proper bases and retieve this info. However, we are randomly generating a DNA or RNA string of 100 base pairs to test this class, so there can be no error message.
 
 Moreover, regarding nucleotides, there are functions to count the nucleotide frequency which is showed as a dictionary as well as GC content which is known as an important feature to be aware of. Examples 
 
@@ -14,7 +14,7 @@ Moreover, regarding nucleotides, there are functions to count the nucleotide fre
 
 Also, transcript of a DNA sequence can be generated as well as the reverse complementary which are then used for reading possible ORF and lastly, obtaing the hypothetical protein sequence.
 
-I am working with modules, this means that I have three files, one for the biologial structures (dictionaries), one for functions where I import the structures and a third one which is used to import the functions and run them. Here is an example of how it look like when I run the code.
+I am working with modules, this means that I have three files, one for the [biologial structures](https://github.com/Christ14n97/Python_4_LifeScience_2019/blob/master/DNAToolset/bio_structs.py) (dictionaries), one for functions where I import the structures and a third one which is used to import the functions and run them. Here is an example of how it look like when I run the code.
 
 Example of call:
 
